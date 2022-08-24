@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Data Structures and Algorithm
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : Email @aaman4958@gmail.com
+- 📫 How to reach me : Email @aamankumar4958@gmail.com
 
 <!---
 AmanSingh4958/AmanSingh4958 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
