@@ -2,4 +2,4 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Data Structures and Algorithm
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : Email @aamankumar4958@gmail.com
+- 📫 How to reach me : contact me
