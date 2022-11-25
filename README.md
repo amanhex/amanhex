@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amanhex
-- 👀 I’m interested in software development
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Data Structures and Algorithm
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : contact me
+- 📫 How to reach me : Email me
