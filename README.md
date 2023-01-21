@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amanhex
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning DSA and Competitive Programming
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning DSA and Competitive Programming.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : Email me
+- 📫 How to reach me : Email me.
