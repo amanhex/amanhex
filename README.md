@@ -2,7 +2,7 @@
 <a href="https://www.github.com/amanhex"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Amanhex;Computer+Science+Undergrad;DSA+%7C+Web+Dev+%7C+Python" alt="Typing SVG" /></a>
 <br/>
 
-<a href="[https://amanhex.github.io/](https://amanhex.github.io/react-portfolio/)">
+<a href="https://amanhex.github.io/react-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Amanhex-red?style=flat-square">
 </a>
 <a href="https://drive.google.com/drive/folders/1cTSOaNf4eirrh83dj0mIPdnVcoMFx7yT?usp=share_link">
