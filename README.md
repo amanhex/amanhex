@@ -13,8 +13,10 @@
 </a>
 </p>
 
+---
+
 - 👋 Hi, I’m @amanhex
-- 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning DSA and Competitive Programming.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : Email me.
+- 🔭 I'm a Linux Enthusiast who likes to play around with Computers and stuff.
+- 🌱 I’m currently learning how to code properly
+
+---
